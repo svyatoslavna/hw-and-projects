@@ -9,7 +9,8 @@
 
 [Мой телеграм](https://t.me/imyourmilla)
 
-[А это я (просто, чтобы вставить какую-нибудь картинку)](<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/93f821f1-a95a-4129-a41b-d5ed87184c72" />)
+[А это я (просто, чтобы вставить какую-нибудь картинку)](<img width="612" height="612" alt="image" src="https://github.com/user-attachments/assets/29595653-9957-4cce-b758-500eed213442" />
+)
 
 - [x] Закончить бакалавриат
 - [ ] Закончить магистратуру
