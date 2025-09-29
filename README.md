@@ -9,7 +9,8 @@
 
 [Мой телеграм](https://t.me/imyourmilla)
 
-[А это я (просто, чтобы вставить какую-нибудь картинку)](<img width="612" height="612" alt="image" src="https://github.com/user-attachments/assets/29595653-9957-4cce-b758-500eed213442" />
+
+![А это я!](<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/bd5475ad-edc7-4c12-bfa3-1edae20faa34" />
 )
 
 - [x] Закончить бакалавриат
