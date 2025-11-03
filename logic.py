@@ -159,7 +159,6 @@ access_to_premium = (
     and has_any_premium_model
     and user_quota["used"] <= user_quota["total"]
 )
-
 access_to_basic = available_models and user_quota["used"] <= user_quota["total"]
 
 
